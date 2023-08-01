@@ -2,13 +2,10 @@
 
 ### Contribute By:-Kunal Ingale
 
-## output 1:-
+
 ![](./image/Vertual-Classroom%201.png)
 
 ---
-
-## Output 2:-
-
 ![](./image/Vertual%20-Classroom%202.png)
 
 ### Contributor
