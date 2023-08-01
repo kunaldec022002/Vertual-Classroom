@@ -3,7 +3,7 @@
 ### Contribute By:-Kunal Ingale
 
 
-![](./image/Vertual-Classroom%201.png)
+![project-output](<./image/Vertual-Classroom%201.png>)
 
 
 
