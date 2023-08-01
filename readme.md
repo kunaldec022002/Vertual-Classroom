@@ -6,7 +6,7 @@
 ![](./image/Vertual-Classroom%201.png)
 
 ---
-![](./image/Vertual%20-Classroom%202.png)
+![project output](./image/Vertual%20-Classroom%202.png)
 
 ### Contributor
 
